@@ -1,3 +1,6 @@
+"""The long_words function returns all words that are at least 7 characters. Fill in the regular expression to complete this function."""
+
+
 import re
 def long_words(text):
   pattern = r"\b[a-zA-Z]{7,}\b"
