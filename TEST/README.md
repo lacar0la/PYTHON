@@ -1,3 +1,5 @@
+In this readme I make a little crossover between english and spanish, some spanglish to study. It help me to organize my ideas and sort it.
+
 # Testing
 
 Testear es un proceso de evaluación el código que se realiza y es una forma de asegurar que se haga lo que se supone que debe hacerse
@@ -48,7 +50,7 @@ We then use the assertEqual method provided to us by the test case class we inhe
 
 **Edge cases** are inputs to our code that produce unexpected results, and are found at the extreme ends of the ranges of input we imagine our programs will typically work with.
 
-![Screen Shot 2023-09-12 at 3.56.01 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b2b7fb9e-15e2-4186-9c86-ff6fa417b245/67945bf1-03dd-4755-bb25-b95120d88bc2/Screen_Shot_2023-09-12_at_3.56.01_PM.png)
+![Cases.png](https://www.notion.so/Testing-6c8245ac1aac49d9b6143f63f3a84553?pvs=4#3a23d44d54f6448ba8d23deb4ac18fdb)
 
 ## white-box test or a black-box test
 
